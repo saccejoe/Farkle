@@ -8,7 +8,7 @@ Thank you for taking the time!
 
 This is the updated code:
 [Updated Code](https://github.com/saccejoe/Farkle/tree/master/Farkle)
-[Final Code Review]()
+[Final Code Review](https://github.com/saccejoe/Farkle/blob/master/docs/Final%20Code%20Review.mp4)
 
 The Redesign and Flow:
 [Inital Code Review](https://github.com/saccejoe/Farkle/blob/master/docs/Code%20Review%201%20(The%20Original%20Code).mp4)
