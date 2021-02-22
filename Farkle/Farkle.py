@@ -1,4 +1,4 @@
-from tkinter import Tk, Button, Frame, Label, Menu, Toplevel, Entry, Canvas, Scrollbar, LabelFrame
+from tkinter import Tk, Button, Frame, Label, Menu, Toplevel, Entry
 from PIL import Image, ImageTk
 import os
 import random
